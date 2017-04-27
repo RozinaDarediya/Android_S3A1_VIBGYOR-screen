@@ -10,8 +10,7 @@
     android:paddingBottom="20dp"
     android:background="#ffffff"
     android:weightSum="1">
-
-tools:context="com.example.dell.session2assignment1.MainActivity">
+    tools:context="com.example.dell.session2assignment1.MainActivity">
 
     <TextView
         android:layout_width="match_parent"
